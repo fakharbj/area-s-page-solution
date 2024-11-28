@@ -1,2 +1,1 @@
-# area-s-page-solution
-Add CPT for Area pages
+# My New Repository
